@@ -1,0 +1,24 @@
+#prof-img{
+    max-width: 20%;
+    max-height: 25%;
+}
+
+#nav-link-top{
+    align: left;
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+}
+
+.navbar .a{
+    float: left;
+    text-align: center;
+    color: black;
+}
+.navbar a:hover{
+    background-color: rebeccapurple;
+}
+#main-title{
+    top: 1500px;
+}
